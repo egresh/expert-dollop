@@ -4,4 +4,6 @@ Instructions for deploying this site
 1)
 2)
 3)
+4)
+5)
 ...
