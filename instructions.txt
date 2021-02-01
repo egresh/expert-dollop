@@ -1,9 +1,9 @@
 Instructions for deploying this site
 ------------------------------------
 
-1)
-2)
-3)
-4)
-5)
+1) Go to the store
+2) Pick up some items
+3) Drive to the gas station
+4) Use the ATM
+5) Buy a lotto ticket
 ...
